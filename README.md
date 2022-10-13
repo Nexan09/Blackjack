@@ -1,2 +1,3 @@
-# Python-Projects
-My simple Python Projects (yeah it's Puplic so what)
+# Blackjack
+A little Game of Blackjack build in Python.
+Nothing Fancy, no GUI or stuff like that
